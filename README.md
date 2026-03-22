@@ -53,9 +53,3 @@ Project Structure :
 * `queries.sql` → SQL queries for analysis
 
 
-Learning Outcomes :
-
-* Understanding of relational database design
-* Hands-on experience with SQL queries
-* Knowledge of normalization and data integrity
-* Real-world healthcare data modeling
